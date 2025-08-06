@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicoAPI", "MedicoAPI.csproj", "{F9855D55-1AE7-4251-B93C-9A3AC0C86FBF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AgoraIO", "..\..\..\..\..\..\agoraLib\Tools\DynamicKey\AgoraDynamicKey\csharp\src\AgoraIO\AgoraIO.csproj", "{A40F31F3-D2C0-4779-AA26-8ABF2BF03EB3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9855D55-1AE7-4251-B93C-9A3AC0C86FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9855D55-1AE7-4251-B93C-9A3AC0C86FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9855D55-1AE7-4251-B93C-9A3AC0C86FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9855D55-1AE7-4251-B93C-9A3AC0C86FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40F31F3-D2C0-4779-AA26-8ABF2BF03EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40F31F3-D2C0-4779-AA26-8ABF2BF03EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40F31F3-D2C0-4779-AA26-8ABF2BF03EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40F31F3-D2C0-4779-AA26-8ABF2BF03EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {450D921E-2897-4147-B375-8E65ABDC512E}
+	EndGlobalSection
+EndGlobal
